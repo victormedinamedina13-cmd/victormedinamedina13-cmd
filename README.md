@@ -45,7 +45,7 @@ Me enfoco en entender cómo se detecta, analiza y responde a incidentes de segur
 
 ## 📈 Actividad
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victormedinamedina13-cmd&show_icons=true&theme=dark)
 
 ---
 
